@@ -1,0 +1,22 @@
+.navi {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+}
+
+.hed {
+  height: 80px;
+  width: 100%;
+  background: #e47070;
+}
+
+.content-block {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.header-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
